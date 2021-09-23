@@ -7,15 +7,11 @@
 [Small Saga](https://sketchylogic.itch.io/small-saga)
 
 ### Rating
-
-Insert your own rating.
-Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+🌕🌕🌕🌕🌗
 
 ## Summary
 
-This game is about... this should be at least 3-4 paragraphs summarizing the
-game play mechanics of the game. You should be answering the who, what,
-when, where, why, and how of the game itself.
+Small Saga is a fantasy rpg where a pair of mice set out into the sewers to find food for their community. On the way they encounter hungry rats and angry gods. As of now it is currently incomplete but it shows a lot of promise. 
 
 ## Final Thoughts
 
