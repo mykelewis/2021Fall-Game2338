@@ -11,16 +11,10 @@
 
 ## Summary
 
-Small Saga is a fantasy rpg where a pair of mice set out into the sewers to find food for their community. On the way they encounter hungry rats and angry gods. As of now it is currently incomplete but it shows a lot of promise. 
+Small Saga is a isometric fantasy rpg where a pair of mice set out into the sewers to find food for their community. The graphice are gorgeous, although a little flat in some areas. On the way they encounter hungry rats and angry gods. As of now it is currently incomplete but it shows a lot of promise. The current lore provided is rich with what little there is. 
+
+As for controls and general gameplay, I would say it's rather polished. Aside from a small hiccup in the main menu everything works as intended. Personally I don't like movement in isometric that isn't point-and-click. Having to mostly hold down two keys to move 'straight' is uncomfortable. Aside from that the controls are sleek and the UI is easy to understand. 
 
 ## Final Thoughts
 
-Describe in as much detail as possible what you did and didn't enjoy about the
-game and list out your reasons why. Remember this is a review and thus should
-stand up to some criticism when making your reasons why you thought this way
-about particular features of the game. This should be at a minimum of 1
-paragraph.
-
-## Additional Information
-
-Links to other reviews or other information you used in this review.
+All in all this game is a joy to play. It's fun, cute, and unique. Aside from my personal vendetta from non point-and-click this game is well made and has the potential to be great once it's finished.
