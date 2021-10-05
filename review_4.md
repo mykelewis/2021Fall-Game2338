@@ -12,21 +12,18 @@
 ## Summary
 
 Apex Legends is a FPS battle royale game based across three different maps. In this FPS the player is teamed up with two other players and given an assortment of collorful
-characters called Legends
-and together they must scavange items strew across the map
+characters called **Legends**. Together they must scavange items strew across the map and battle their was through other teams until they become the last team standing.
 
-This game is about... this should be at least 3-4 paragraphs summarizing the
-game play mechanics of the game. You should be answering the who, what,
-when, where, why, and how of the game itself.
+As mentioned before the player is able to chose from a list of Legends. Each Legend comes with their own special set of abilities that give them an edge during the battle.
+Depending on the abilities they come with they're separated into the catagories of offensive, defensive, support, and recon. 
+
+Offensive characters are fast, agile, and tend to deal a good set of damage. Defensive characters usually come with their own shields with some being able to control an area.
+Support characters are able to heal the team or easily provide items while in a secure location. Lastly, Recon characters are able to help their team travel across the 
+map or provide location info on enemies. There are many combinatiosn of characters and classes that work fantastically leaving the game fresh and entertaining.
 
 ## Final Thoughts
 
-Describe in as much detail as possible what you did and didn't enjoy about the
-game and list out your reasons why. Remember this is a review and thus should
-stand up to some criticism when making your reasons why you thought this way
-about particular features of the game. This should be at a minimum of 1
-paragraph.
+The game is wonderful and I reccommend it to all. Aside from some grinding the player has to do to player has to do to unlock most of the charchters it's a fun experience. While
+Some abilites are better than others the game mostly relies on the player's skill with aiming, tactics, and positioning. It's a fresh take on the battle royale genre that many
+should experience.
 
-## Additional Information
-
-Links to other reviews or other information you used in this review.
