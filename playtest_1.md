@@ -1,7 +1,7 @@
 # Playtest for Karlson
 
 * Dani
-* 🌕🌕🌕
+* 🌕🌕🌕🌗🌑
 * [Karlson Itch.io](https://danidev.itch.io/karlson)
 
 **Question:** During your playtesting where the rules of the game understandable? If not, what was not clear.
